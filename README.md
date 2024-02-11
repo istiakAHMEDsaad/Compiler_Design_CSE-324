@@ -49,8 +49,11 @@
 5. `a.exe`
 
 input:
+
 -> 89
+
 Output:
+
 -> 89 is an int number
 
 
@@ -74,8 +77,11 @@ sudo apt-upgrade
 3. `./a.out`
 
 input:
+
 -> 89
+
 Output:
+
 -> 89 is an int number
 
 
