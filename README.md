@@ -44,7 +44,7 @@
 1. Run in Terminal (locate your active code folder or it'll not work)
    #example i created a folder called temp in desktop
    `C:\Users\(user-name)\Desktop\temp`
-3. `lex (filename)` format must be `.l` extension
+3. `flex (filename)` format must be `.l` extension
 4. `gcc lex.yy.c`
 5. `a.exe`
 
